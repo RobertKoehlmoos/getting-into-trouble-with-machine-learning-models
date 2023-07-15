@@ -1,0 +1,11 @@
+torch
+einops
+torchvision
+transformers
+diffusers
+transformers
+scipy
+accelerate
+Pillow
+requests
+diffusers
